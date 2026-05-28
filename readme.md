@@ -6,3 +6,4 @@ https://ggame.gledos.science/website/Gitee.html）
 4. [游戏和谐wiki](https://ggame.gledos.science/index.html)
 5. [中国数字时代](https://chinadigitaltimes.net/chinese/sensitive-words-project)
 6. [cds](https://chinadigitaltimes.net/space/CDS%E4%B8%93%E9%A1%B5%EF%BC%9A%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93)
+7. [gfw-notes](https://github.com/AntonyCheng/gfw-notes)
